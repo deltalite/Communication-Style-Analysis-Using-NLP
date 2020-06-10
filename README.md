@@ -1,9 +1,7 @@
 # Analysis of Different Types of Communication
 In this project, we will explore the fundamental differences between the language used in:
-* Poems
 * Speeches
 * Songs
-* Rap
 
 This analysis will use packages like nltk and pandas.
 
@@ -25,7 +23,3 @@ Speeches
 https://jamesclear.com/great-speeches/
 Songs
 https://www.azlyrics.com/lyrics/muse/bigfreeze.html
-Poems
-https://www.poetryfoundation.org/poems/46473/if---
-Rap
-https://www.azlyrics.com/
