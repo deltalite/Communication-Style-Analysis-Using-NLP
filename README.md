@@ -6,20 +6,23 @@ In this project, we will explore the fundamental differences between the languag
 This analysis will use packages like nltk and pandas.
 
 ## Sample Selection
-For poems, speeches and rap, a list of about 5 from each category will be collected based on general popularity. 
-Popularity itself is difficult to quantify, so I will select those with substantial text that are found in multiple
-"Best" <medium> lists online.
+Five speeches and five albums worth of song lyrics will be analyzed.
+Popularity itself is difficult to quantify, so I based the choice of albums based on most sold and speeches based on what was available.
 
-Song selection methodology is more challenging because there are so many genres. Methodology for sample selection
-is very important to ensure selection processes aren't bias, but this is a for fun project, so I will select songs
-that aren't too repetitive, that I know to be popular and might resemble the other (slightly more standard) categories.
+Methodology for sample selection is very important to ensure selection processes aren't bias, 
+but this is a for fun project, so I think it is alright to pick speeches based on what is on
+James Clear's website, selected in alphabetical order.
 
 Please do not ignore selection methodology (as seen here) if doing a project where the results matter.
 
 ## Data Collection
-Web scraping will be conducted using Selenium and Beautiful Soup (if appropriate).
+Web scraping will be conducted using both Selenium and Beautiful Soup.
 
-Speeches
+Speeches transcripts from:
 https://jamesclear.com/great-speeches/
-Songs
+
+Album Selection based off of:
+https://www.businessinsider.com/50-best-selling-albums-all-time-2016-9
+
+Songs lyrics from:
 https://www.azlyrics.com/lyrics/muse/bigfreeze.html
