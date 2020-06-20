@@ -25,4 +25,4 @@ Album Selection based off of:
 https://www.businessinsider.com/50-best-selling-albums-all-time-2016-9
 
 Songs lyrics from:
-https://www.azlyrics.com/lyrics/muse/bigfreeze.html
+https://www.azlyrics.com/
