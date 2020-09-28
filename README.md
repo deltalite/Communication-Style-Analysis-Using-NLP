@@ -25,6 +25,13 @@ Please do not ignore selection methodology (as seen here) if doing a project whe
 Web scraping will be conducted using both Selenium and Beautiful Soup (so I can learn about using both). 
 Details on when one is a better alternative is detailed in the preprocessing notebooks, as well as some notes on how to be a good website patron when scraping. You don't want to slow/crash their site, get banned or worse.
 
+## Next Steps/In Progress
+* Comparison of LDA and NMF
+* Add more data (involves debugging the scraper since not all web pages have the same format)
+* Add visualizations of relevant data
+
+## Data Sources
+
 Speeches transcripts from:
 https://jamesclear.com/great-speeches/
 
